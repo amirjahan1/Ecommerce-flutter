@@ -1,0 +1,3 @@
+
+var username = '';
+var password = '';
